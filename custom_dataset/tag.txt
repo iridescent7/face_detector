@@ -1,0 +1,19 @@
+--foto/1641916550116.jpg
+1
+801 708 172 211
+--foto/20308.jpg
+1
+404 594 299 355
+--foto/20310.jpg
+1
+228 913 63 75
+--foto/Foto Pribadi 1.jpeg
+1
+335 230 497 664
+--foto/Foto Pribadi 2.jpeg
+1
+135 367 57 70
+--foto/Foto Pribadi 3.jpeg
+2
+156  171  359  463
+696  118  250  292
